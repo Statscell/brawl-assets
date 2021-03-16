@@ -1,6 +1,6 @@
-# clash-assets
+# brawl-assets
 
-Various assets for supercell's game "Clash of Clans"
+Various assets for supercell's game "Brawl Stars"
 
 ## Sources
 
